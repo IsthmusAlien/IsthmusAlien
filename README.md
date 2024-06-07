@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning And App Development**
 
-- 💬 Ask me about **MySQL, DSA, Python, C And Java**
+- 💬 Ask me about **MySQL, DSA, Python, C, Java, Javascript And Dart**
 
 - 📫 How to reach me **ojasvishe1710@gmail.com**
 
