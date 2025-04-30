@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isthmusalien" alt="isthmusalien" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning And App Development**
+- 🌱 I’m currently learning **Web And App Development**
 
-- 💬 Ask me about **MySQL, DSA, Python, C, Java, Javascript And Dart**
+- 💬 Ask me about **MySQL, DSA, Python, C, Java, Javascript, Dart And React**
 
 - 📫 How to reach me **ojasvishe1710@gmail.com**
 
